@@ -7,11 +7,12 @@
     <ProjectGuid>{DAC3D742-CE89-43E9-A83E-0C2F6F420D0C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>KeLi.FormChart</RootNamespace>
-    <AssemblyName>KeLi.FormChart</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AssemblyName>FormChart</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

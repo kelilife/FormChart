@@ -7,6 +7,7 @@ using System.Windows.Forms.DataVisualization.Charting;
 using System.Xml.Serialization;
 
 using KeLi.FormChart.Models;
+using KeLi.FormChart.Properties;
 
 namespace KeLi.FormChart.Forms
 {
